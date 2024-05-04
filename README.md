@@ -1,5 +1,5 @@
 # Rat-Cage-Modifications
-Documents the process of modifying Techniplast cage lids to better suit rats with electrophysiology implants.
+Documents the process of modifying Tecniplast cage lids to better suit rats with electrophysiology implants.
 
 Designed at HHMI's Janelia research campus by the jET team, the modifications allow more space inside the home cage for rats with head mounted electrophysiology implants. The cages as purchased position the water bottle spouts too low in areas of the cage where there is not enough space for the rats to comfortably drink.  
 
